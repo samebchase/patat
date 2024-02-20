@@ -463,7 +463,7 @@ patat:
     > * once
 ```
 
-Another way to break up slides is to use a pagraph only containing three dots
+Another way to break up slides is to use a paragraph only containing three dots
 separated by spaces.  For example, this slide has two pauses:
 
 ```markdown
